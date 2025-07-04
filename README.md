@@ -59,6 +59,6 @@ This dashboard is not just about crunching numbers—it’s about making sense o
 
 ## 📽️ Tutorial Reference
 
-🧑‍🏫 **Special thanks to [Shruti Mahadev](https://www.youtube.com/@ShrutiMahadev)** for her insightful Power BI tutorial that served as the foundation for this project. Her content is a great resource for aspiring data professionals looking to enhance their visualization skills.
+🧑‍🏫 **Special thanks to [Shruti Mahadev](https://www.youtube.com/@Shruthi_Mahadev)** for her insightful Power BI tutorial that served as the foundation for this project. Her content is a great resource for aspiring data professionals looking to enhance their visualization skills.
 
 
